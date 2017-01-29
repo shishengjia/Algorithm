@@ -82,6 +82,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/shishengjia/ClionProjects/Algorithm/InsertionSort.h">
+			<Option target="Algorithm"/>
+		</Unit>
+		<Unit filename="C:/Users/shishengjia/ClionProjects/Algorithm/SelectionSort.h">
+			<Option target="Algorithm"/>
+		</Unit>
+		<Unit filename="C:/Users/shishengjia/ClionProjects/Algorithm/SortTestHelper.h">
+			<Option target="Algorithm"/>
+		</Unit>
 		<Unit filename="C:/Users/shishengjia/ClionProjects/Algorithm/main.cpp">
 			<Option target="Algorithm"/>
 		</Unit>

@@ -6,7 +6,33 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/shishengjia/ClionProjects/Algorithm/InsertionSort.h
+
+C:/Users/shishengjia/ClionProjects/Algorithm/SelectionSort.h
+iostream
+-
+stdlib.h
+-
+stdio.h
+-
+
+C:/Users/shishengjia/ClionProjects/Algorithm/SortTestHelper.h
+iostream
+-
+ctime
+-
+cassert
+-
+stdlib.h
+-
+
 C:/Users/shishengjia/ClionProjects/Algorithm/main.cpp
 iostream
 -
+SelectionSort.h
+C:/Users/shishengjia/ClionProjects/Algorithm/SelectionSort.h
+SortTestHelper.h
+C:/Users/shishengjia/ClionProjects/Algorithm/SortTestHelper.h
+InsertionSort.h
+C:/Users/shishengjia/ClionProjects/Algorithm/InsertionSort.h
 
